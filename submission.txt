@@ -1,0 +1,1 @@
+OPP has Inheritance,Poly-morphism and inheritence.
