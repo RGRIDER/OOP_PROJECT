@@ -1,13 +1,13 @@
 
-# 📚 Google Classroom Inspired System - OOP Project in C++
+## Google Classroom Inspired System - OOP Project in C++
 
-## 👨‍💻 Project Info
+##  Project Info
 
 This project is a **C++ console-based application** inspired by **Google Classroom**, developed using core **Object-Oriented Programming (OOP)** concepts. It simulates a classroom management system that allows teachers and students to interact through classes, assignments, submissions, grading, and notifications.
 
 ---
 
-## 👨‍🏫 Developed By
+##  Developed By
 
 - **Name:** Haider Zia  
 - **Roll Number:** 22I-1196  
@@ -16,7 +16,7 @@ This project is a **C++ console-based application** inspired by **Google Classro
 
 ---
 
-## 🧠 OOP Concepts Used
+##  OOP Concepts Used
 
 - **Encapsulation:** Data members are encapsulated within their respective classes.
 - **Abstraction:** Functionalities like grading, submission, and class management are abstracted into separate classes.
@@ -26,7 +26,7 @@ This project is a **C++ console-based application** inspired by **Google Classro
 
 ---
 
-## 💡 Features
+##  Features
 
 1. **User Management System**
    - Register and authenticate students and teachers.
@@ -53,7 +53,7 @@ This project is a **C++ console-based application** inspired by **Google Classro
 
 ---
 
-## 🗃️ File Structure
+##  File Structure
 
 - `main.cpp` - Driver code to simulate the entire system.
 - `UserManagement.h` - Handles registration and login logic.
@@ -65,7 +65,7 @@ This project is a **C++ console-based application** inspired by **Google Classro
 
 ---
 
-## ⚙️ How to Run
+##  How to Run
 
 1. Clone or download the repository.
 2. Compile using any C++ compiler (e.g., g++, Code::Blocks).
@@ -77,12 +77,12 @@ g++ main.cpp -o classroomApp
 ```
 ---
 
-## 💬 Final Notes
+##  Final Notes
 
 This project showcases a strong understanding of OOP principles and simulates real-world classroom operations within a console-based application. It can be further extended to include GUI support or file-based authentication.
 
 ---
 
-> 🎓 *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+>  *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
 
 ---
